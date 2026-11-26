@@ -1,0 +1,41 @@
+date,surface,prompt,mentioned,cited,competitors,cited_domains
+2026-11-02,claude,best seo tracking software for a small team,true,true,Contoso Tracker,acmemetrics.example|g2.com|reddit.com
+2026-11-02,claude,which tools track brand mentions in Claude answers,true,true,Northwind Rank|Contoso Tracker|Fabrikam SERP,acmemetrics.example|northwind.example|reddit.com
+2026-11-02,claude,ai overview rank tracking software for agencies,true,false,Northwind Rank|Contoso Tracker,northwind.example|reddit.com
+2026-11-02,claude,seo tracking software with an api and weekly exports,false,false,Northwind Rank|Contoso Tracker,contoso.example|g2.com
+2026-11-02,claude,how do I see which pages Claude cites for my category,true,true,,acmemetrics.example|northwind.example|reddit.com
+2026-11-02,ai_overview,best seo tracking software for a small team,false,false,Northwind Rank|Contoso Tracker,northwind.example|reddit.com
+2026-11-02,ai_overview,which tools track brand mentions in Claude answers,true,false,Northwind Rank|Contoso Tracker,contoso.example|g2.com
+2026-11-02,ai_overview,ai overview rank tracking software for agencies,true,false,Contoso Tracker,contoso.example|g2.com
+2026-11-02,ai_overview,seo tracking software with an api and weekly exports,false,false,Northwind Rank|Fabrikam SERP,g2.com|northwind.example
+2026-11-02,ai_overview,how do I see which pages Claude cites for my category,false,false,Northwind Rank|Fabrikam SERP,northwind.example|reddit.com
+2026-11-09,claude,best seo tracking software for a small team,false,false,Contoso Tracker,g2.com|reddit.com
+2026-11-09,claude,which tools track brand mentions in Claude answers,false,false,Northwind Rank|Contoso Tracker|Fabrikam SERP,g2.com|northwind.example
+2026-11-09,claude,ai overview rank tracking software for agencies,false,false,Northwind Rank,contoso.example|g2.com
+2026-11-09,claude,seo tracking software with an api and weekly exports,false,false,Contoso Tracker,northwind.example|reddit.com
+2026-11-09,claude,how do I see which pages Claude cites for my category,false,false,Contoso Tracker|Fabrikam SERP,contoso.example|g2.com
+2026-11-09,ai_overview,best seo tracking software for a small team,false,false,Contoso Tracker|Fabrikam SERP,northwind.example|reddit.com
+2026-11-09,ai_overview,which tools track brand mentions in Claude answers,false,false,Contoso Tracker|Fabrikam SERP,g2.com|reddit.com
+2026-11-09,ai_overview,ai overview rank tracking software for agencies,false,false,Contoso Tracker|Fabrikam SERP,contoso.example|reddit.com
+2026-11-09,ai_overview,seo tracking software with an api and weekly exports,true,true,Contoso Tracker|Fabrikam SERP,acmemetrics.example|g2.com|reddit.com
+2026-11-09,ai_overview,how do I see which pages Claude cites for my category,false,false,,contoso.example|northwind.example
+2026-11-16,claude,best seo tracking software for a small team,false,false,,contoso.example|g2.com
+2026-11-16,claude,which tools track brand mentions in Claude answers,true,true,Contoso Tracker|Fabrikam SERP,acmemetrics.example|contoso.example|g2.com
+2026-11-16,claude,ai overview rank tracking software for agencies,true,true,Northwind Rank|Contoso Tracker|Fabrikam SERP,acmemetrics.example|contoso.example|northwind.example
+2026-11-16,claude,seo tracking software with an api and weekly exports,false,false,Northwind Rank|Contoso Tracker|Fabrikam SERP,contoso.example|reddit.com
+2026-11-16,claude,how do I see which pages Claude cites for my category,false,false,Contoso Tracker,contoso.example|g2.com
+2026-11-16,ai_overview,best seo tracking software for a small team,false,false,Northwind Rank|Contoso Tracker|Fabrikam SERP,contoso.example|reddit.com
+2026-11-16,ai_overview,which tools track brand mentions in Claude answers,false,false,Northwind Rank|Contoso Tracker,northwind.example|reddit.com
+2026-11-16,ai_overview,ai overview rank tracking software for agencies,false,false,Fabrikam SERP,northwind.example|reddit.com
+2026-11-16,ai_overview,seo tracking software with an api and weekly exports,false,false,Fabrikam SERP,contoso.example|reddit.com
+2026-11-16,ai_overview,how do I see which pages Claude cites for my category,false,false,,contoso.example|northwind.example
+2026-11-23,claude,best seo tracking software for a small team,false,false,Contoso Tracker,g2.com|reddit.com
+2026-11-23,claude,which tools track brand mentions in Claude answers,true,true,Northwind Rank|Contoso Tracker,acmemetrics.example|contoso.example|reddit.com
+2026-11-23,claude,ai overview rank tracking software for agencies,false,false,Contoso Tracker,g2.com|northwind.example
+2026-11-23,claude,seo tracking software with an api and weekly exports,true,true,Northwind Rank,acmemetrics.example|contoso.example|northwind.example
+2026-11-23,claude,how do I see which pages Claude cites for my category,false,false,Northwind Rank,contoso.example|northwind.example
+2026-11-23,ai_overview,best seo tracking software for a small team,false,false,Fabrikam SERP,northwind.example|reddit.com
+2026-11-23,ai_overview,which tools track brand mentions in Claude answers,false,false,Contoso Tracker|Fabrikam SERP,northwind.example|reddit.com
+2026-11-23,ai_overview,ai overview rank tracking software for agencies,true,false,Northwind Rank,contoso.example|reddit.com
+2026-11-23,ai_overview,seo tracking software with an api and weekly exports,false,false,Fabrikam SERP,contoso.example|northwind.example
+2026-11-23,ai_overview,how do I see which pages Claude cites for my category,true,false,,g2.com|northwind.example

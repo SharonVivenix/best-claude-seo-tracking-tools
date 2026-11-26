@@ -1,0 +1,92 @@
+# One entry per tool. Prices are the entry plan as listed in November 2026, in the vendor's own currency.
+# claude: Claude is a named engine on the entry plan. ai_overviews: Google AI Overviews is a named engine.
+# engines: every engine the vendor names for its product (used for the computed count).
+# prompts: tracked prompts on the entry plan, or null when the vendor does not state it.
+- name: AIclicks
+  url: https://aiclicks.io/trackers/claude-ai-tracker
+  currency: "$"
+  entry_price: 59
+  entry_plan: Starter
+  prompts: 30
+  claude: true
+  ai_overviews: true
+  engines: [Claude, ChatGPT, Gemini, Google AI Overviews, Grok, DeepSeek, Copilot, Meta AI, Mistral]
+  trial: 3 days
+  best_for: Teams that want citations by URL plus a fix list and GA4 referral data
+- name: XSeek
+  url: https://www.xseek.io/en
+  currency: "$"
+  entry_price: 99.99
+  entry_plan: Visibility
+  prompts: 10
+  claude: true
+  ai_overviews: false
+  engines: [Claude, ChatGPT, Meta AI, Gemini, DeepSeek, Llama, Cohere, Perplexity, xAI]
+  trial: Not stated
+  best_for: Real time alerts and page level Claude citations
+- name: LPagery Claude AI Rank Tracker
+  url: https://lpagery.io/
+  currency: "$"
+  entry_price: 59
+  entry_plan: Starter
+  prompts: null
+  claude: true
+  ai_overviews: false
+  engines: [Claude, ChatGPT, Gemini]
+  trial: 7 days
+  best_for: Small brands that want simple weekly reports and local prompt variants
+- name: LLMrefs
+  url: https://llmrefs.com/
+  currency: "$"
+  entry_price: 79
+  entry_plan: Pro
+  prompts: 500
+  claude: true
+  ai_overviews: false
+  engines: [Claude, ChatGPT, Gemini, Copilot, DeepSeek, Perplexity, xAI, Meta AI]
+  trial: Free plan, 1 keyword
+  best_for: One blended visibility score across many engines, with CSV export
+- name: Orchly
+  url: http://orchly.ai/
+  currency: "$"
+  entry_price: 49
+  entry_plan: Essential
+  prompts: null
+  claude: true
+  ai_overviews: true
+  engines: [Claude, ChatGPT, Gemini, Google AI Overviews, Perplexity, Copilot]
+  trial: Not stated
+  best_for: Multi site teams that want AI citations next to backlink and rank data
+- name: Rankability
+  url: https://www.rankability.com/
+  currency: "$"
+  entry_price: 199
+  entry_plan: Core
+  prompts: null
+  claude: true
+  ai_overviews: true
+  engines: [Claude, ChatGPT, Perplexity, Google AI Overviews, Google AI Mode, xAI, Brave Search, DeepSeek]
+  trial: Not stated
+  best_for: Agencies that need white label reports and citation pattern analysis
+- name: AI Rank Lab
+  url: https://www.airanklab.com/
+  currency: "$"
+  entry_price: 69
+  entry_plan: Starter
+  prompts: null
+  claude: true
+  ai_overviews: false
+  engines: [Claude, ChatGPT, Gemini, Perplexity]
+  trial: Free plan
+  best_for: Startups that want a free way in before paying
+- name: Keyword.com
+  url: http://keyword.com/
+  currency: "$"
+  entry_price: 24.5
+  entry_plan: 50 credits
+  prompts: null
+  claude: true
+  ai_overviews: true
+  engines: [Claude, ChatGPT, Gemini, Google AI Overviews, Perplexity, DeepSeek, Copilot]
+  trial: 14 days
+  best_for: Classic SERP rank tracking teams adding AI surfaces, with API and Looker Studio

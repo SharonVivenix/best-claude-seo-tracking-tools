@@ -1,0 +1,19 @@
+{
+  "brand": {
+    "name": "Acme Metrics",
+    "aliases": ["Acme Metrics", "AcmeMetrics"],
+    "domains": ["acmemetrics.example"]
+  },
+  "competitors": [
+    {"name": "Northwind Rank", "aliases": ["Northwind Rank"]},
+    {"name": "Contoso Tracker", "aliases": ["Contoso Tracker"]},
+    {"name": "Fabrikam SERP", "aliases": ["Fabrikam SERP"]}
+  ],
+  "prompts": [
+    "best seo tracking software for a small team",
+    "which tools track brand mentions in Claude answers",
+    "ai overview rank tracking software for agencies",
+    "seo tracking software with an api and weekly exports",
+    "how do I see which pages Claude cites for my category"
+  ]
+}
